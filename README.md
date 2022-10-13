@@ -1,5 +1,9 @@
-### Buenas mundo 👋
-
+### Buenas soy Daniel
+ Soy alumno del I.E.S Alisal(España)
+ ¿Que puedo contar de mi?
+    Me gusta hacer proyectos de bajo presupuesto 
+    Me adapto muy bien a protocolos y la atencion al cliente
+    Soy calmado y cortes
 <!--
 **DanielGarciaSetien/DanielGarciaSetien** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
