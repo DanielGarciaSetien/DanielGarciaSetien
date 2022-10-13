@@ -1,19 +1,17 @@
 ###
-<H1>Buenas soy Daniel</H1>
-   alumno del I.E.S Alisal(España)  <Br>
-<h2>¿Que puedo contar de mi?</h2><Br>
-    >Me gusta hacer proyectos de bajo presupuesto <Br>
-    >Me adapto muy bien a protocolos y a la atencion al cliente<Br>
-    >Soy calmado y cortes  <Br>
+# Buenas soy Daniel
+ alumno del I.E.S Alisal(España)
+## ¿Que puedo contar de mi?
    
+   * Me gusta hacer proyectos de bajo presupuesto                 
+   * Me adapto muy bien a protocolos y a la atencion al cliente
+   * Soy calmado y cortes  
 
-Format: (https://i.pinimg.com/236x/d0/63/a3/d063a3990c8c12fe618338ebd6a6a9fb--happy-happy-happy-happy-things.jpg)
+   ![images](https://user-images.githubusercontent.com/115716866/195651810-98a3d5a2-3dd4-48ad-a05f-364948245ccc.jpg)
 
+> Cualquier duda ponme un 10
 
-
-
-
-
+> gg
 
 
 
