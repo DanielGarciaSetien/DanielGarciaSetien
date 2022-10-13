@@ -5,8 +5,9 @@
     >Me gusta hacer proyectos de bajo presupuesto <Br>
     >Me adapto muy bien a protocolos y a la atencion al cliente<Br>
     >Soy calmado y cortes  <Br>
+   
 
-
+https://i.pinimg.com/236x/d0/63/a3/d063a3990c8c12fe618338ebd6a6a9fb--happy-happy-happy-happy-things.jpg
 
 
 
