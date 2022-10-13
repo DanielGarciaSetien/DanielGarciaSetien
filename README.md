@@ -1,6 +1,6 @@
 ### <H1>Buenas soy Daniel</H1>
- Soy alumno del I.E.S Alisal(España)<Br>
-   ¿Que puedo contar de mi?<Br>
+ Soy alumno del I.E.S Alisal(España)  <Br>
+   <h2>¿Que puedo contar de mi?<h2><Br>
    Me gusta hacer proyectos de bajo presupuesto <Br>
    Me adapto muy bien a protocolos y a la atencion al cliente<Br>
    Soy calmado y cortes  <Br>
