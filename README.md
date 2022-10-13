@@ -10,8 +10,7 @@
    ![images](https://user-images.githubusercontent.com/115716866/195651810-98a3d5a2-3dd4-48ad-a05f-364948245ccc.jpg)
 
 > Cualquier duda ponme un 10
-
-> gg
+< o almenos intentalo
 
 
 
