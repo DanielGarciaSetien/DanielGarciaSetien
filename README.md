@@ -9,10 +9,11 @@
 
    ![images](https://user-images.githubusercontent.com/115716866/195651810-98a3d5a2-3dd4-48ad-a05f-364948245ccc.jpg)
 
-> Cualquier duda ponme un 10
-< o almenos intentalo
 
+> Un sabio dijo : siempre se tu mismo. pero si puedes ser batman 
+> mejor se batman que es mejor_ Paulo Coelho
 
+![1480934307_225079_1480935128_sumario_normal](https://user-images.githubusercontent.com/115716866/195654293-6f137f77-552e-406d-83fe-e44a55e63128.jpg)
 
 
 
