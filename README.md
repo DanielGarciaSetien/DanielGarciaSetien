@@ -9,11 +9,9 @@
 
    ![images](https://user-images.githubusercontent.com/115716866/195651810-98a3d5a2-3dd4-48ad-a05f-364948245ccc.jpg)
 
+> Todos los dias hay algo que aprender, algo que perdonar, y Muchas cosas que agradecer
+![ecea2b286f4e07f1256f1aedc44424c4](https://user-images.githubusercontent.com/115716866/195655165-10e9d921-55c5-40e8-9517-35967c614b6d.jpg)
 
-> Un sabio dijo : siempre se tu mismo. pero si puedes ser batman 
-> mejor se batman que es mejor_ Paulo Coelho
-
-![1480934307_225079_1480935128_sumario_normal](https://user-images.githubusercontent.com/115716866/195654293-6f137f77-552e-406d-83fe-e44a55e63128.jpg)
 
 
 
