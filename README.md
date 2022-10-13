@@ -11,11 +11,6 @@
 
 > Todos los dias hay algo que aprender, algo que perdonar, y Muchas cosas que agradecer
 
-![ecea2b286f4e07f1256f1aedc44424c4](https://user-images.githubusercontent.com/115716866/195655165-10e9d921-55c5-40e8-9517-35967c614b6d.jpg)
-
-
-
-
 
 <!--
 **DanielGarciaSetien/DanielGarciaSetien** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
