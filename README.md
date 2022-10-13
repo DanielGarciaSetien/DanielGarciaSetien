@@ -1,9 +1,23 @@
 ### <H1>Buenas soy Daniel</H1>
  Soy alumno del I.E.S Alisal(España)<Br>
- ¿Que puedo contar de mi?<Br>
-    Me gusta hacer proyectos de bajo presupuesto <Br>
-    Me adapto muy bien a protocolos y la atencion al cliente<Br>
-    Soy calmado y cortes  <Br>
+   ¿Que puedo contar de mi?<Br>
+   Me gusta hacer proyectos de bajo presupuesto <Br>
+   Me adapto muy bien a protocolos y a la atencion al cliente<Br>
+   Soy calmado y cortes  <Br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <!--
 **DanielGarciaSetien/DanielGarciaSetien** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
