@@ -9,7 +9,7 @@
 
    ![images](https://user-images.githubusercontent.com/115716866/195651810-98a3d5a2-3dd4-48ad-a05f-364948245ccc.jpg)
 
-> Todos los dias hay algo que aprender, algo que perdonar, y Muchas cosas que agradecer
+> 🤔Todos los dias hay algo que aprender, algo que perdonar, y Muchas cosas que agradecer🤔
 
 
 <!--
